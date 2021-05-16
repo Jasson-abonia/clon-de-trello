@@ -1,0 +1,65 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+div{
+    font-size: 62.5%;
+}
+
+.seccion6{
+    background: darkslateblue;
+    color:white;
+    width: 38rem;
+    height: 12rem;
+    margin: auto;
+    margin-top: 1.0rem;
+    border-radius: 8px;
+}
+.seccion6 h3{
+    text-align: center;
+    padding-top: 1.3rem;
+    padding-bottom: 0.5rem;
+    font-size:1.2rem ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.seccion6 h4{
+    text-align: center;
+    font-size: 0.7rem;
+    color:rgb(229, 226, 226);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.seccion6 .google{
+    display: flex;
+    margin: 0 5rem;
+}
+.seccion6 div p{
+    padding: 1.7rem;
+    font-size: 1.1rem;
+}
+.seccion6 button{
+    width: 5.8rem;
+    height: 1.2rem;
+    display: flex;
+    margin: 0 auto;
+    font-size: 0.6rem;
+}
+.seccion6 button a{
+  color:black;
+  text-decoration: none;
+  text-align: center;
+}
+.seccion6 #g{
+
+font-family: Arial, Helvetica, sans-serif;
+}
+.seccion6 #k{
+
+    font-family: 'Chango';
+}
+.seccion6 #t{
+
+    font-family: 'Mr Bedfort';
+
+}
