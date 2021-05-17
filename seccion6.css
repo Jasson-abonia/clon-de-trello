@@ -6,6 +6,10 @@ padding: 0;
 div{
     font-size: 62.5%;
 }
+.seccion6 a{
+    color:white;
+    padding: 1rem;
+}
 
 .seccion6{
     background: darkslateblue;
@@ -18,9 +22,9 @@ div{
 }
 .seccion6 h3{
     text-align: center;
-    padding-top: 1.3rem;
+    padding-top: 1.4rem;
     padding-bottom: 0.5rem;
-    font-size:1.2rem ;
+    font-size:1.1rem ;
     font-family: Arial, Helvetica, sans-serif;
 }
 .seccion6 h4{
@@ -32,34 +36,38 @@ div{
 }
 .seccion6 .google{
     display: flex;
-    margin: 0 5rem;
+    justify-content: center;
 }
 .seccion6 div p{
-    padding: 1.7rem;
-    font-size: 1.1rem;
+    padding: 1.1rem;
 }
 .seccion6 button{
-    width: 5.8rem;
-    height: 1.2rem;
+    width: 6rem;
+    height: 1.4rem;
     display: flex;
     margin: 0 auto;
     font-size: 0.6rem;
 }
 .seccion6 button a{
-  color:black;
+  color:rgb(61, 60, 60);
   text-decoration: none;
-  text-align: center;
+  padding: 3px 3px;
 }
 .seccion6 #g{
 
 font-family: Arial, Helvetica, sans-serif;
+font-size: 1.4rem;
+font-weight: 600;
 }
 .seccion6 #k{
 
     font-family: 'Chango';
+    font-size: 0.9rem;
+    padding-top: 25px;
 }
 .seccion6 #t{
 
     font-family: 'Mr Bedfort';
-
+    font-size: 1.5rem;
 }
+ 
