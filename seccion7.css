@@ -1,0 +1,71 @@
+.seccion7{
+    width: 100%;
+    height: 535px;
+    background-image:url(imagen.jpg)
+    
+}
+.seccion7 .titulo{
+    text-align: center;
+    padding: 70px 50px 140px 50px;
+    width: 355px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: auto;
+    color: rgb(17, 17, 48);
+}
+
+.seccion7 .titulo p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.seccion7 .titulo button{
+    background:rgb(78, 170, 55) ;
+    width: 182px;
+    height: 38px;
+    border-radius: 4px;
+}
+
+.seccion7 .titulo button a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.seccion7 .input{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.seccion7 .enlaces{
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+
+.seccion7 .enlaces .url a{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(92, 90, 90);
+    
+}
+
+.seccion7 .a{
+    text-align: center;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    color: rgb(53, 49, 49);
+}
+
+.seccion7 footer{
+    text-align: center;
+    margin-bottom: 0;
+    position: static;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(51, 49, 49);
+}
